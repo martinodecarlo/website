@@ -4,7 +4,8 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Martino De Carlo
-  content: Electronic Engineer, <br> PhD in Mechanical Engineering and Management
+  content: 'Web and App developer <br> Electronic Engineer, <br> PhD in Mechanical
+    Engineering and Management, '
   button:
     enable: true
     label: Discover Our Project
