@@ -8,7 +8,7 @@ theme = "airspace-hugo"
 title = "martinodecarlo"
 [languages.de]
 contentDir = "content/german"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
+copyright = "Copyright &copy; 2021 [Martino De Carlo](https://www.martinodecarlo.com). All rights reserved."
 languageCode = "de-DE"
 languageName = "Deutsch"
 weight = 3
@@ -74,7 +74,7 @@ name = "Kontakt"
 weight = 6
 [languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [Martino De Carlo](https://www.martinodecarlo.com). All Rights Reserved."
 languageCode = "en-US"
 languageName = "English"
 weight = 1
