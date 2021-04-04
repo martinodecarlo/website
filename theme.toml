@@ -10,10 +10,10 @@ features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.64.0"
 
 [author]
-  name = "Themefisher"
+  name = "Martino De Carlo"
   homepage = "https://themefisher.com/"
 
 [original]
-  name = "Airspace"
+  name = "Martino De Carlo"
   homepage = "https://themefisher.com/products/airspace-free-bootstrap-website-template/"
   repo = "https://github.com/themefisher/airspace-free-html5-agency-template"
